@@ -1,0 +1,15 @@
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\bin\Debug\net6.0\ContaBancariaComPatternState.exe
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\bin\Debug\net6.0\ContaBancariaComPatternState.deps.json
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\bin\Debug\net6.0\ContaBancariaComPatternState.runtimeconfig.json
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\bin\Debug\net6.0\ContaBancariaComPatternState.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\bin\Debug\net6.0\ContaBancariaComPatternState.pdb
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ContaBancariaComPatternState.csproj.AssemblyReference.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ContaBancariaComPatternState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ContaBancariaComPatternState.AssemblyInfoInputs.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ContaBancariaComPatternState.AssemblyInfo.cs
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ContaBancariaComPatternState.csproj.CoreCompileInputs.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ContaBancariaComPatternState.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\refint\ContaBancariaComPatternState.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ContaBancariaComPatternState.pdb
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ContaBancariaComPatternState.genruntimeconfig.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\ContaBancariaComPatternState\ContaBancariaComPatternState\obj\Debug\net6.0\ref\ContaBancariaComPatternState.dll
